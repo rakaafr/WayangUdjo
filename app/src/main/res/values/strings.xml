@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Art Space</string>
+    <string name="text">Wayang adalah seni pertunjukan tradisional Indonesia yang telah ada sejak berabad-abad dan menjadi bagian penting dari budaya Indonesia, khususnya di Pulau Jawa dan Bali. Kata "wayang" dalam bahasa Jawa berarti "bayangan,"
+        yang merujuk pada pertunjukan bayangan yang digunakan dalam wayang kulit,salah satu jenis wayang yang paling dikenal.</string>
+    <string name="kulit6">1. Wayang Kulit</string>
+    <string name="deskwayang">Wayang kulit adalah bentuk wayang yang paling terkenal, terbuat dari kulit kerbau atau sapi yang dipahat dan diukir dengan detail yang rumit. Tokoh-tokohnya digerakkan oleh seorang dalang di belakang layar putih, dengan cahaya dari lampu minyak (blencong) yang memproyeksikan bayangan karakter-karakter tersebut pada layar.
+        Cerita yang dibawakan biasanya berasal dari epos Ramayana dan Mahabharata.</string>
+    <string name="golek6">2. Wayang Golek</string>
+    <string name="deskgolek">Wayang golek adalah boneka tiga dimensi yang terbuat dari kayu. Bentuknya lebih realistis dibandingkan wayang kulit. Wayang golek lebih populer di daerah Jawa Barat, khususnya di kalangan masyarakat Sunda. Cerita
+        yang dibawakan seringkali adalah legenda lokal dan epos Hindu seperti Ramayana dan Mahabharata.</string>
+    <string name="orang6">3. Wayang Orang</string>
+    <string name="deskorang">Wayang orang adalah pertunjukan wayang yang dimainkan oleh manusia yang mengenakan kostum dan riasan yang menyerupai karakter wayang. Pertunjukan ini menggabungkan seni tari, musik,
+        dan akting, dan biasanya dipentaskan di panggung terbuka.</string>
+    <string name="klithink">4. Wayang klithik</string>
+    <string name="deskklithik">Jenis wayang yang terbuat dari kayu pipih, lebih kecil dibandingkan wayang golek.
+        Wayang klithik sering kali membawakan cerita lokal atau kisah-kisah dari epos Hindu.</string>
+    <string name="galeri">Galeri Foto Wayang</string>
+    <string name="golek">Wayang Golek</string>
+    <string name="kulit">Wayang Kulit</string>
+    <string name="klitik">Wayang Klithik</string>
+    <string name="orang">Wayang Orang</string>
+    <string name="wayang1">2. Wayang Golek</string>
+    <string name="wayang2">1. Wayang Kulit</string>
+    <string name="wayang3">3. Wayang Orang</string>
+    <string name="udjo">Wayang Udjo</string>
+    <string name="star">Get Started</string>
+    <string name="edu">Peran Wayang dalam Masyarakat</string>
+    <string name="edu1">Wayang bukan sekadar hiburan, tetapi juga merupakan alat pendidikan dan penyebaran nilai-nilai moral, sosial, dan agama. Dalam setiap pertunjukan, seorang dalang tidak hanya menceritakan kisah epik tetapi juga menyelipkan pesan-pesan moral dan kritik sosial yang relevan dengan kondisi masyarakat.
+
+Dalang, yang berperan sebagai penggerak wayang dan narator cerita, adalah tokoh yang sangat dihormati dalam masyarakat. Dalang sering kali dianggap sebagai guru yang menyampaikan kebijaksanaan melalui cerita-cerita yang dibawakannya.</string>
+
+    <string name="penting">Mengapa Wayang Penting?</string>
+    <string name="penting1">Wayang adalah cerminan dari kekayaan budaya dan kearifan lokal Indonesia. Pertunjukan wayang mengajarkan nilai-nilai kehidupan, seperti keberanian, keadilan, cinta kasih, dan kesetiaan. Dengan menonton wayang, kita tidak hanya dihibur, tetapi juga diingatkan tentang pentingnya menjaga nilai-nilai luhur yang menjadi fondasi kehidupan masyarakat.
+
+Selain itu, wayang juga merupakan bagian dari identitas nasional Indonesia. Pada tahun 2003, UNESCO mengakui wayang sebagai Karya Agung Warisan Budaya Lisan dan Nonbendawi Manusia, menandakan pentingnya seni ini dalam budaya global.</string>
+
+
+
+    <string name="jadwal">Jadwal Pertunjukan Wayang</string>
+    <string name="previus">Back</string>
+    <string name="next">Next</string>
+
+</resources>

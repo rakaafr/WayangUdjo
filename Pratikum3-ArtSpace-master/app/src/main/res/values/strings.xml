@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Art Space</string>
+    <string name="text">Cappadocia adalah sebuah wilayah di tengah Anatolia, Turki, yang terkenal dengan pemandangan alamnya yang unik dan bersejarah. Salah satu ciri khasnya adalah formasi batu kapur yang aneh, yang terbentuk oleh erosi selama ribuan tahun. Batu-batu ini terkenal dengan sebutan "kubah peri" atau "kota bawah tanah",
+        karena beberapa bagian digunakan sebagai tempat tinggal, gereja, dan tempat perlindungan oleh penduduk setempat selama berabad-abad.</string>
+    <string name="previus">Previus</string>
+    <string name="next">Next</string>
+
+</resources>
